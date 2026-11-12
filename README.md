@@ -11,9 +11,9 @@ Student Record Management System comparing:
 Algorithm-Battle/
 ├── student.c
 ├── README.md
-├── Report.docx          # Add your final report here
+├── Report.docx          
 └── Screenshots/
-    ├── compilation.png  # Add execution screenshots here
+    ├── compilation.png  
     ├── bst-search.png
     ├── avl-search.png
     ├── hash-search.png
