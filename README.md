@@ -10,7 +10,7 @@ AVL Tree, and Hash Table using Linear Probing.
 Algorithm-Battle/
 ├── student.c
 ├── README.md
-├── Report.docx                 # Add your final report here
+├── Report.docx                
 └── Screenshots/
     ├── initial_dataset_30_students.png
     ├── insert_student_1031.png
