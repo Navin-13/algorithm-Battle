@@ -56,11 +56,8 @@ The submitted terminal screenshot records:
 - Hash successful search probes for ID 1015: 10
 - Hash unsuccessful search probes for ID 1099: 22
 
-Use the final program output as the source of truth when updating the report.
-
 ## GitHub repository URL
-Add your actual repository URL after creating the repository:
-`https://github.com/YOUR-USERNAME/Algorithm-Battle`
+`https://github.com/Navin-13/algorithm-Battle.git`
 
 ## Final report
-Add your completed report to this folder as `Report.docx`.
+Add your completed report as `Report.docx`.
