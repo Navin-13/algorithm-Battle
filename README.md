@@ -87,7 +87,7 @@ The results depend on the insertion order and hash function used in this experim
 ## Repository structure
 
 ```text
-Algorithm-Battle/
+algorithm-Battle/
 ├── student.c
 ├── README.md
 ├── report.docx
